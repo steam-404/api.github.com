@@ -1,5 +1,7 @@
 # api.github.com
 
+English  简体中文
+
 | url                              | 说明         |
 | -------------------------------- | ------------ |
 | https://api.github.com/users/用户名 | 获取用户信息 |
